@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arjunpj-11/leetcode-solutions/tree/master/0001-two-sum) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/arjunpj-11/leetcode-solutions/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/arjunpj-11/leetcode-solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
