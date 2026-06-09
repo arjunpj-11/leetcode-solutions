@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/arjunpj-11/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/arjunpj-11/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Depth-First Search
 |  |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/arjunpj-11/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/arjunpj-11/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Array
 |  |
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arjunpj-11/leetcode-solutions/tree/master/0001-two-sum) |
+| [0146-lru-cache](https://github.com/arjunpj-11/leetcode-solutions/tree/master/0146-lru-cache) |
 ## Stack
 |  |
 | ------- |
@@ -28,5 +31,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/arjunpj-11/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/arjunpj-11/leetcode-solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
