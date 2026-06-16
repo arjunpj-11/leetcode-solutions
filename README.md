@@ -33,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/arjunpj-11/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/arjunpj-11/leetcode-solutions/tree/master/0155-min-stack) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/arjunpj-11/leetcode-solutions/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/arjunpj-11/leetcode-solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
